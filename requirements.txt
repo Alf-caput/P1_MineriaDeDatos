@@ -1,7 +1,10 @@
-ipykernel
+notebook
 numpy
 pandas
 matplotlib
 scikit-learn
 openpyxl
 seaborn
+plotly
+statsmodels
+tabulate
